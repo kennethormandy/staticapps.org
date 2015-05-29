@@ -80,7 +80,7 @@ web hosting services. When choosing a host, there are a few things (other than c
 * Can I host an SSL-protected static web app on the provider?
 * How easy is the deploy process? Are there developer-friendly features like rollback?
 
-**Examples:** [Divshot](http://www.divshot.io/), [Amazon S3](http://aws.amazon.com/s3/), [GitHub Pages](http://pages.github.com/)
+**Examples:** [Divshot](http://www.divshot.io/), [Amazon S3](http://aws.amazon.com/s3/), [GitHub Pages](http://pages.github.com/), [Surge](https://surge.sh)
 
 ### Back-End Services
 
